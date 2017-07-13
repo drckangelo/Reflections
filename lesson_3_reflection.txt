@@ -8,3 +8,7 @@ Why might you want to always pull changes manually rather than having Git automa
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
  Forks are clones on GitHub alone, clones is when clone a repository on remote to your Mac or from your Mac to another directory on your Mac, branches are labels for commit and can only be done or in local or In remote.
+
+
+
+HAHHAHA
